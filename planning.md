@@ -12,7 +12,7 @@ This is a community I've been following for many years, so I am very familiar wi
 
 ### Labels
 
-- `meta-discussion` - Posts about the subreddit itself, the FIRE philosophy, or community norms and culture — not grounded in any individual's personal journey. Includes mod announcements, debates about what belongs on the sub, essays on FIRE principles, and general "what does this community believe" threads. **Decision boundary:** If the post could have been written by any member of the community and doesn't reference the author's specific financial situation or personal decisions, it's `meta-discussion`. If it references the author's specific numbers, timeline, or life choices, it belongs to `progress` or `advice-wanted` instead.
+- `meta-discussion` - Posts about the subreddit itself, the FIRE philosophy, or community norms and culture. Includes mod announcements, debates about what belongs on the sub, essays on FIRE principles, general "what does this community believe" threads, and philosophical essays that use personal experience as evidence for a community-wide argument. **Decision boundary:** Ask what the post's conclusion is aimed at — if it's a general claim or lesson for the community as a whole, it's `meta-discussion`, even if it uses the author's personal story as the vehicle. If the post's purpose is to share what happened to the author (a milestone, update, or outcome) with no broader argument for the community, it's `progress` or `advice-wanted` instead.
 
   Examples:
   - https://www.reddit.com/r/financialindependence/comments/a1a1jl/new_rule_no_gender_discussions_or_comparisons_or/
@@ -87,7 +87,7 @@ Related Link 1: One Year Update
 Related Link 2: Clarification Update
 ```
 
-  - Not sure about: https://www.reddit.com/r/financialindependence/comments/7meg59/this_sub_was_the_best_thing_to_ever_happen_to_me/ — it's about the subreddit's impact on a user but also includes personal progress. **Decision rule:** Because it references the author's specific personal journey, label it `progress`.
+  - Not sure about: https://www.reddit.com/r/financialindependence/comments/7meg59/this_sub_was_the_best_thing_to_ever_happen_to_me/ — it's about the subreddit's impact on a user but also includes personal progress. **Decision rule:** Because it references the author's specific personal journey with no broader discussion, label it `progress`.
 
 - `progress` - Posts where the author shares a personal milestone or update on their own FI journey: retirement announcements, net worth milestones, savings rate updates, "I finally did X" posts. The post's primary purpose is sharing what happened, not requesting a decision. **Decision boundary:** If the post ends with a question but the framing is celebratory or reflective and comments respond with congratulations or follow-up questions to the OP, label it `progress`. Only move it to `advice-wanted` if the author's entire post is structured around seeking a decision or recommendation.
 
@@ -187,7 +187,7 @@ I don't know what to do now. I don't plan on ignoring my family forever and I ca
 
 ### Data collection plan
 
-I'll collect examples by sorting the subreddit by top of all time posts for the first 75 samples, then controversial of all time for the last 75 samples to get a diverse variety of quality. I'll also grab 25 of the top posts from the last year and 25 of the most controversial from the last year to get more recent examples in the data. I'll endeavor to get an even split of all 3 categories. If a label is underrepresented after 200 examples I'll likely have to do a targeted search of the subreddit to try and find examples of the target topic.
+I'll collect examples by sorting the subreddit by top of all time posts for the first 75 samples, then controversial of all time for the last 75 samples to get a diverse variety of quality. I'll also grab 25 of the top posts from the last year and 25 of the most controversial from the last year to get more recent examples in the data. I'll endeavor to get an even split of all 3 categories. If a label is underrepresented after 200 examples I'll likely have to do a targeted search of the subreddit to try and find examples of the target topic. I can also use comments in the daily threads if posts do not result in enough data.
 
 ### Evaluation Metrics
 
